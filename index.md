@@ -1,5 +1,3 @@
-![AstarRecruitImg](https://user-images.githubusercontent.com/79431092/110095357-2e6d6680-7de0-11eb-81c3-10443cff0122.jpg)
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/astar-jack/home/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -37,3 +35,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+![AstarRecruitImg](https://user-images.githubusercontent.com/79431092/110095357-2e6d6680-7de0-11eb-81c3-10443cff0122.jpg)
