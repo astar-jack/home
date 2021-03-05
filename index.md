@@ -1,3 +1,5 @@
+![AstarRecruitImg](https://user-images.githubusercontent.com/79431092/110095357-2e6d6680-7de0-11eb-81c3-10443cff0122.jpg)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/astar-jack/home/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -24,7 +26,6 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-[https://astar-jack.github.io/home/index/]
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
